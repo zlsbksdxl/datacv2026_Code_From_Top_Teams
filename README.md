@@ -19,8 +19,8 @@ This repository publishes the code repositories of the top-5 teams in the two Da
 | 2 | `phi6kai` | [sf-illusion-aware-vlm](https://github.com/jasminezz/sf-illusion-aware-vlm) | `Under Review` | `❌` |
 | 3 | `yangfanqihang` | [DataCV2026-Task1-yangfanqihang](https://github.com/liangc001/DataCV2026-Task1-yangfanqihang) | `Under Review` | `❌` |
 | 4 | `snowpine007` | [cvpr_2026_datacv_submission](https://github.com/Davidxswang/cvpr_2026_datacv_submission) | `Under Review` | `✔` |
-| 5 | `sifan077` | [DataCV2026-task1](https://github.com/sifan077/DataCV2026-task1) | `Under Review` | `✔` |
-![1775538770766](image/README/1775538770766.png)
+| 5 | `sifan077` | [DataCV2026-task1](https://github.com/sifan077/DataCV2026-task1) | `Under Review` | `-` |
+
 ### Task 2: Real-World Visual Illusions and Anomalies Understanding
 
 | Rank | Team | Repository | Status | Notes |
