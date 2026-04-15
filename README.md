@@ -29,7 +29,7 @@ This repository publishes the code repositories of the top-5 teams in the two Da
 | 2 | `yangfanqihang` | [DataCV2026-Task2-yangfanqihang](https://github.com/liangc001/DataCV2026-Task2-yangfanqihang) | `Under Review` | `-` |
 | 3 | `snowpine007` | [cvpr_2026_datacv_submission](https://github.com/Davidxswang/cvpr_2026_datacv_submission) | `Under Review` | `-` |
 | 4 | `yiming_zhang` | [Illusion_ICL](https://github.com/mingZhang614/Illusion_ICL) | `Under Review` | `-` |
-| 5 | `ziplab` | [DDP](https://github.com/ziplab/DDP) | `Under Review` | `-` |
+| 5 | `ziplab` | [DDP](https://github.com/ziplab/DDP) | `Under Review` | `✔` |
 
 
 
