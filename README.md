@@ -21,7 +21,7 @@ This repository publishes the code repositories of the top-5 teams in the two Da
 | 4 | `snowpine007` | [cvpr_2026_datacv_submission](https://github.com/Davidxswang/cvpr_2026_datacv_submission) | `Under Review` | `✔` |
 | 5 | `sifan077` | [DataCV2026-task1](https://github.com/sifan077/DataCV2026-task1) | `Under Review` | `-` |
 | 6 | `pepsi` |  |  |  |
-| 7 | `yiming_zhang` |[Illusion_ICL_Task1](https://github.com/mingZhang614/Illusion_ICL_Task1)  |`Under Review`  | `-` |
+| 7 | `yiming_zhang` |[Illusion_ICL_Task1](https://github.com/mingZhang614/Illusion_ICL_Task1)  |`Under Review`  | `√` |
 
 ### Task 2: Real-World Visual Illusions and Anomalies Understanding
 
@@ -30,7 +30,7 @@ This repository publishes the code repositories of the top-5 teams in the two Da
 | 1 | `hugh-bao` | [Edit-Crop-and-Prompt-Engineering](https://github.com/Jingwei-Bao/Edit-Crop-and-Prompt-Engineering) | `Under Review` | `✔` |
 | 2 | `yangfanqihang` | [DataCV2026-Task2-yangfanqihang](https://github.com/liangc001/DataCV2026-Task2-yangfanqihang) | `Under Review` | `✔` |
 | 3 | `snowpine007` | [cvpr_2026_datacv_submission](https://github.com/Davidxswang/cvpr_2026_datacv_submission) | `Under Review` | `✔` |
-| 4 | `yiming_zhang` | [Illusion_ICL](https://github.com/mingZhang614/Illusion_ICL) | `Under Review` | `-` |
+| 4 | `yiming_zhang` | [Illusion_ICL](https://github.com/mingZhang614/Illusion_ICL) | `Under Review` | `❌` |
 | 5 | `ziplab` | [DDP](https://github.com/ziplab/DDP) | `Under Review` | `✔` |
 
 
